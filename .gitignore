@@ -1,2 +1,6 @@
 #Mac files
 .DS_store
+
+# Large CSV files
+mnist_test.csv 
+mnist_train.csv
